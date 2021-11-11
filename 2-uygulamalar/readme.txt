@@ -1,0 +1,1 @@
+bu klasörde yapýlan tüm çalýþmalar yer almaktadýr. bitmemiþ projelerde olabilir.
