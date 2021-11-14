@@ -1,0 +1,7 @@
+{
+    "editor.formatOnSave": true,/*Kaydederken bir dosyayı biçimlendirir*/
+    "editor.wordWrap": "on",/*dili için geçersiz kılınacak ayarları yapılandırır*/
+    "editor.wordWrapColumn": 120,/*genişlik düzenlenir.*/
+    //"prettier.singleQuote": true//tüm çift tırnakları tek tırnağa çeirecek. gerek varmı bilemedim.
+
+}
