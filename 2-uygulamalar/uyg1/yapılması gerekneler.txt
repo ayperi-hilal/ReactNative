@@ -3,3 +3,5 @@ manu olu�umu
 2-expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
 
 bu iki kodu terminalde calstitilmasi lazim
+
+//mockun altındakiler gerçek değil sahte verilerdir.
