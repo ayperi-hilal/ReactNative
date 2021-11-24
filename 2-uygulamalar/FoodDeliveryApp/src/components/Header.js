@@ -10,7 +10,7 @@ const Header = (props) => {
     /* tekrarlı bir şekilde kullanabilmek için props parametresini verdik. */
     return (
         <View style={styles.container}>
-            <Text style={styles.labelStyles}>uygulamamnın başlığı buraya yazılacak</Text>
+            <Text style={styles.labelStyles}>Restoranlar Listesi</Text>
         </View>
     );
 };
