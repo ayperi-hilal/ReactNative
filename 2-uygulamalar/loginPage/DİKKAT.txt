@@ -1,0 +1,18 @@
+firebase veri tabaný ile baðlantý kurabilmek için;
+1)https://reactnavigation.org/docs/getting-started
+adresine girilir.
+npm install @react-navigation/native
+çalýþtýrýlýr.
+
+2)expo install react-native-screens react-native-safe-area-context
+çalýþtýr
+
+3) npm install @react-navigation/native-stack
+çalýþtýr
+
+
+4)npm i firebase@^4.8.0 --save
+
+(https://stackoverflow.com/questions/52659859/module-not-found-cant-resolve-firebase-index)
+
+
